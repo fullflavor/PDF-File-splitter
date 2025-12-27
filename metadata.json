@@ -1,0 +1,5 @@
+{
+  "name": "PDF Split & Zip",
+  "description": "A high-performance tool to split PDF files into individual pages or custom ranges and package them into a single ZIP archive, all within your browser.",
+  "requestFramePermissions": []
+}
